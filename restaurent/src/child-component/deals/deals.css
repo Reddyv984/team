@@ -1,0 +1,19 @@
+.card{
+    background-color: black;
+   }
+
+
+.col{
+    border:5px solid darkmagenta;
+    border-radius: 30%;
+    align-items: center;
+    padding:20px;
+    margin:30px
+
+
+}
+h6{
+    font-style: italic;
+
+    color: aqua;
+}
